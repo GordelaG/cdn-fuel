@@ -252,7 +252,7 @@ Config.AirAndWaterVehicleFueling = {
                 },
             },
             ['prop'] = {
-                ['model'] = 'prop_gas_pump_1d',
+                ['model'] = 'gg_plane_gas_pump',
                 ['coords'] = vector4(442.08, -977.15, 42.69, 269.52),
             }
         },

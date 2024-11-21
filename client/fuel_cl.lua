@@ -13,6 +13,7 @@ local props = {
 	"prop_vintage_pump",
 	"prop_gas_pump_old2",
 	"prop_gas_pump_old3",
+	"gg_plane_gas_pump", -- Gordela Planes Gas Station Pump.
 	"denis3d_prop_gas_pump", -- Gabz Ballas Gas Station Pump.
 }
 local refueling = false
